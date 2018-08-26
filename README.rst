@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSketchingDev%2FDoodle-Dashboard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSketchingDev%2FDoodle-Dashboard?ref=badge_shield)
+
 Doodle-Dashboard: Simple dashboards for all!
 ============================================
 
@@ -69,3 +71,7 @@ Remove the library with::
 
     $ sudo rm -rf /Library/Python/3.6/site-packages/doodledashboard/
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSketchingDev%2FDoodle-Dashboard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSketchingDev%2FDoodle-Dashboard?ref=badge_large)
